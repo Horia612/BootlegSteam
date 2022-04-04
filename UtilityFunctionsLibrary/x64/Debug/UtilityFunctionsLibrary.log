@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  core.cpp
+C:\Users\Horia\Desktop\Work\BootlegSteam-master\UtilityFunctionsLibrary\core.cpp(23,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  UtilityFunctionsLibrary.cpp
+  Generating Code...
+  UtilityFunctionsLibrary.vcxproj -> C:\Users\Horia\Desktop\Work\BootlegSteam-master\Binaries\UtilityFunctionsLibrary.lib
